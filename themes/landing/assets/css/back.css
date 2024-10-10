@@ -1,0 +1,384 @@
+
+
+.fixedLink {
+    position: fixed;
+    right: 70px;
+    bottom: 70px;
+    display: flex;
+    align-items: center;
+
+}
+@media(max-width:768px){
+   .fixedLink{
+    right: 40px;
+    bottom: 40px;
+   }
+}
+
+
+.fixedScroll {
+    height: 60px;
+    width: 0;
+    opacity: 0;
+    visibility: hidden;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 0;
+    z-index: 2;
+    position: relative;
+    right: -10px;
+    overflow: hidden;
+    white-space: nowrap;
+    transition: all .5s;
+    position: relative;
+}
+
+
+.fixedScroll::after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 30px;
+    height: 100%;
+    background-color: #000;
+    content: "";
+    z-index: 43;
+}
+.fixedScroll::before{
+    position: absolute;
+    right: 8px;
+    top: 0;
+    width: 30px;
+    height: 100%;
+    background-color: #000;
+    content: "";
+    z-index: 4;
+}
+
+
+.fixedOpen {
+    width: 225px;
+    opacity: 1;
+    visibility: visible;
+    padding: 0 25px;
+}
+
+
+.fixedScrolling {
+    position: relative;
+    z-index: 2;
+    -webkit-animation: scroll 13s infinite linear;
+    -moz-animation: scroll 13s infinite linear;
+    -o-animation: scroll 13s infinite linear;
+    animation: scroll 13s infinite linear;
+}
+
+
+
+.fixedIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 11px;
+    background-color: #AC7D3A;
+    cursor: pointer;
+    z-index: 5;
+    animation: pulse 2s infinite;
+
+}
+
+.fixedIcon img{
+    width: 31px;
+}
+
+/*
+.fixedIcon img {
+     animation-name: shake;
+    animation-duration: 0.13s;
+    animation-delay: .5s;
+    animation-iteration-count: infinite;
+    filter: blur(0.3px);
+}
+ */
+
+.imgShake {
+    animation-name: shake;
+    animation-duration: 0.13s;
+    animation-delay: .5s;
+    animation-iteration-count: infinite;
+    filter: blur(0.3px);
+}
+
+
+
+/* rgba(255,255,255,.85); */
+/* Animation */
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgb(172, 125, 58,.5);
+    }
+    70% {
+        box-shadow: 0 0 0 2em rgb(172, 125, 58,0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgb(172, 125, 58,0);
+    }
+}
+
+@keyframes shake {
+    0% {
+        transform: rotate(0);
+    }
+
+
+
+    50% {
+        transform: rotate(8deg);
+    }
+
+
+    100% {
+        transform: rotate(-5deg);
+    }
+}
+
+
+@keyframes scroll {
+    0% {
+        left: 150px;
+    }
+
+    100% {
+        left: -550px;
+    }
+}
+
+@-webkit-keyframes scroll {
+    0% {
+        left: 150px;
+    }
+
+    100% {
+        left: -550px;
+    }
+}
+
+
+
+/* popup */
+
+
+.requestModal {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgba(255, 255, 255, .6);
+    transform: scale(.99);
+    opacity: 0;
+    visibility: hidden;
+    transition: all .5s;
+    z-index: 7000;
+
+}
+
+
+.requestModalShow{
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+    transition: all .5s;
+  
+
+}
+
+
+
+
+.requestModal__center {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #AC7D3A;
+    width: 511px;
+    height: 538px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.25);
+
+}
+@media(max-width:576px){
+    .requestModal__center{
+        width: 100%;
+    }
+}
+
+.requestModal__img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    object-fit: contain;
+    z-index: 1;
+}
+
+.requestModal__form {
+    position: relative;
+    z-index: 3;
+    width: 65%;
+}
+
+.requestModal__form label {
+    display: block;
+    color: #fff;
+    font-size: 12px;
+    margin-bottom: 8px;
+
+}
+.requestModal__form label a{
+    color: #ffff!important;
+}
+.requestModal__form label a{
+    color: #ffff;
+}
+
+.requestModal__form .form-group{
+    margin-top: 23px;
+}
+
+
+
+.requestModal__form .form-control {
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 0;
+    font-size: 12px;
+}
+
+
+
+.requestModal__form .d-flex{
+    align-items: center;
+    margin-top: 35px;
+}
+
+.requestModal__form span{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.call_check-label{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 5px;
+    margin-bottom: 0!important;
+}
+
+
+.requestModal__submit{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    color: #AC7D3A;
+    border: none;
+    transition: all .6s;
+    letter-spacing: 2px;
+}
+
+.requestModal__submit:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.requestModal h4{
+    color: #fff;
+    margin-top: 85px;
+    margin-bottom: 25px;
+    position: relative;
+    z-index: 353;
+}
+
+
+.requestModal__close{
+    position: absolute;
+    right: 16px;
+    top: 22px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 46px;
+    z-index: 4;
+    transition: all .3s;
+}
+.requestModal__close:hover{
+    text-decoration: none!important;
+}
+
+.requestModal__close:hover{
+    color: #e5e5e5;
+}
+
+
+.requestTimer{
+    width: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 5;
+}
+
+#timer{
+    color: #fff;
+    font-size: 60px;
+    margin-top: 30px;
+    font-family: 'Gotham';
+    line-height: 45px;
+}
+
+
+.requestModal .iti{
+    width: 100%;
+}
+
+.requestModal .iti__country-name{
+    color: #000 !important;
+}
+
+
+.requestModal .iti--separate-dial-code .iti__selected-dial-code {
+    margin-left: 6px;
+    color: #000 !important;
+    font-size: 16px;
+}
+.requestModal .iti__arrow {
+    margin-left: 6px;
+    width: 0;
+    height: 0;
+    border-left: 3px solid transparent;
+    border-right: 3px solid transparent;
+    border-top: 4px solid #555!important;
+}
+.requestTimer h5{
+    color:#fff;
+    font-family: "Gotham A","Gotham B";
+    font-weight: 400;
+    margin-top: 35px;
+}
+
+.requestTimer h6{
+    color:#fff;
+    font-family: "Gotham A","Gotham B";
+    font-weight: 400;
+    margin-top: 35px;
+}

@@ -1,0 +1,424 @@
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@9
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\npm\sweetalert2@9
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\jquery-validate\1.19.0\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/en
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\en.html
+Content Type: text/html
+
+Uri: https://realestate.portonovi.com/modules/system/assets/css/framework.extras.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\modules\system\assets\css\framework.extras.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/modules/system/assets/js/framework.extras.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\modules\system\assets\js\framework.extras.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/modules/system/assets/js/framework.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\modules\system\assets\js\framework.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/storage/app/media/duplex_plan_img1-0-0-0-0-1644071618.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\duplex_plan_img1-0-0-0-0-1644071618.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/duplex_plan_img2-0-0-0-0-1644071657.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\duplex_plan_img2-0-0-0-0-1644071657.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/duplex_plan_img3-0-0-0-0-1644071705.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\duplex_plan_img3-0-0-0-0-1644071705.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/duplex_plan_img4-0-0-0-0-1644071738.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\duplex_plan_img4-0-0-0-0-1644071738.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/apartment1.jpeg
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\apartment1.jpeg
+Content Type: image/jpeg
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/apartment2.jpeg
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\apartment2.jpeg
+Content Type: image/jpeg
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/apartment3.jpeg
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\apartment3.jpeg
+Content Type: image/jpeg
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/apartment4.jpeg
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\apartment4.jpeg
+Content Type: image/jpeg
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/apartment5.jpeg
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\apartment5.jpeg
+Content Type: image/jpeg
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/beach-white.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\beach-white.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/beach.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\beach.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/blueprint-white.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\blueprint-white.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/blueprint.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\blueprint.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/fence-white.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\fence-white.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/fence.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\fence.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/measurement-white.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\measurement-white.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/measurement.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\measurement.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/pool-white.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\pool-white.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/pool.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\pool.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/portonovi/Portonovi-Montenegro-properties-seaview 2.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\portonovi\Portonovi-Montenegro-properties-seaview 2.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/portonovi/Portonovi-Montenegro-properties-seaview.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\portonovi\Portonovi-Montenegro-properties-seaview.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/portonovi/Portonovi-real-estate-marina-apartments 2.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\portonovi\Portonovi-real-estate-marina-apartments 2.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/portonovi/Portonovi-real-estate-marina-apartments 3.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\portonovi\Portonovi-real-estate-marina-apartments 3.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/portonovi/Portonovi-real-estate-marina-apartments.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\portonovi\Portonovi-real-estate-marina-apartments.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/initial/portonovi/Portonovi-real-estate-village-apartments.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\initial\portonovi\Portonovi-real-estate-village-apartments.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/one_bedroom_plan_img1-0-0-0-0-1644071020.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\one_bedroom_plan_img1-0-0-0-0-1644071020.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/one_bedroom_plan_img2-0-0-0-0-1644071071.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\one_bedroom_plan_img2-0-0-0-0-1644071071.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/one_bedroom_plan_img3-0-0-0-0-1644071106.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\one_bedroom_plan_img3-0-0-0-0-1644071106.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/penthouses_plan_img1-0-0-0-0-1644071840.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\penthouses_plan_img1-0-0-0-0-1644071840.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/penthouses_plan_img2-0-0-0-0-1644071885.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\penthouses_plan_img2-0-0-0-0-1644071885.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/penthouses_plan_img3-0-0-0-0-1644071916.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\penthouses_plan_img3-0-0-0-0-1644071916.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/penthouses_plan_img4-0-0-0-0-1644071951.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\penthouses_plan_img4-0-0-0-0-1644071951.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/penthouses_plan_img5-0-0-0-0-1644071993.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\penthouses_plan_img5-0-0-0-0-1644071993.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/three_bedroom_plan_img1-0-0-0-0-1644071465.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\three_bedroom_plan_img1-0-0-0-0-1644071465.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/three_bedroom_plan_img2-0-0-0-0-1644071499.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\three_bedroom_plan_img2-0-0-0-0-1644071499.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/three_bedroom_plan_img3-0-0-0-0-1644071536.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\three_bedroom_plan_img3-0-0-0-0-1644071536.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/two_bedroom_plan_img1-0-0-0-0-1644071178.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\two_bedroom_plan_img1-0-0-0-0-1644071178.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/two_bedroom_plan_img2-0-0-0-0-1644071208.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\two_bedroom_plan_img2-0-0-0-0-1644071208.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/two_bedroom_plan_img3-0-0-0-0-1644071244.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\two_bedroom_plan_img3-0-0-0-0-1644071244.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911666-portonovi-real-estate-2.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911666-portonovi-real-estate-2.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911669-portonovi-real-estate-3.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911669-portonovi-real-estate-3.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911672-portonovi-real-estate-4.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911672-portonovi-real-estate-4.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911676-portonovi-real-estate-1.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911676-portonovi-real-estate-1.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911678-portonovi-real-estate-5-_1_.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911678-portonovi-real-estate-5-_1_.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911694-portonovi-real-estate-7.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911694-portonovi-real-estate-7.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/631911700-portonovi-real-estate-8.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\631911700-portonovi-real-estate-8.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/Financial-Benefits-Of-Investing-in-Montenegro-Portonovi-Real-Estate.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\Financial-Benefits-Of-Investing-in-Montenegro-Portonovi-Real-Estate.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/webp/Portonovi_boat_trip_01-2717 RGB RT_.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\webp\Portonovi_boat_trip_01-2717 RGB RT_.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/storage/app/media/white_logo_pn.svg
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\storage\app\media\white_logo_pn.svg
+Content Type: image/svg+xml
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/css/back.css?v2.620
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\css\back.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/css/main/main.min.css?v2.736
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\css\main\main.min.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/apple-icon-167x167.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\apple-icon-167x167.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/favicon/favicon.ico
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/2024 Portonovi landing page.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\2024 Portonovi landing page.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/bigphone.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\bigphone.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/cancel.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\cancel.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/de-flag.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\de-flag.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/h4.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\h4.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/littlephone.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\littlephone.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/masterplan.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\masterplan.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/me-flag.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\me-flag.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/register your.webp
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\register your.webp
+Content Type: image/webp
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/ru-flag.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\ru-flag.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/tr-flag.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\tr-flag.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/twobedroom-1_800x600.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\twobedroom-1_800x600.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/img/twobedroom-2_800x600.png
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\img\twobedroom-2_800x600.png
+Content Type: image/png
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/js/all.min.js?v1.1
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/bootstrap/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\bootstrap\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/bootstrap/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\bootstrap\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/intelInput/intlTelInput.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\intelInput\intlTelInput.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/intelInput/intlTelInput.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\intelInput\intlTelInput.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/nice-select/css/nice-select.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\nice-select\css\nice-select.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/nice-select/js/jquery.nice-select.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\nice-select\js\jquery.nice-select.js
+Content Type: application/javascript
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/normalize.css/normalize.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\normalize.css\normalize.css
+Content Type: text/css
+
+Uri: https://realestate.portonovi.com/themes/landing/assets/libs/splide/splide.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\themes\landing\assets\libs\splide\splide.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/axios@1.7.7/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\axios@1.7.7\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/flickity-fade@1.0.0/flickity-fade.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\flickity-fade@1.0.0\flickity-fade.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/flickity@2.3.0/dist/flickity.min.css
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\flickity@2.3.0\dist\flickity.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/flickity@2.3.0/dist/flickity.pkgd.min.js
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\flickity@2.3.0\dist\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit
+File Name: C:\Downloaded Web Sites\realestate.portonovi.com\recaptcha\api.js
+Content Type: text/javascript
+
